@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yvettestack.iml" filepath="$PROJECT_DIR$/.idea/modules/yvettestack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yvettestack_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yvettestack_main.iml" group="yvettestack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yvettestack_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yvettestack_test.iml" group="yvettestack" />
+    </modules>
+  </component>
+</project>
