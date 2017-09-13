@@ -38,7 +38,7 @@ public class LeetCode676 {
         }
         return false;
     }
-    
+
 }
 
 //https://leetcode.com/problems/implement-magic-dictionary/description/
