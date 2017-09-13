@@ -27,3 +27,6 @@ public class LeetCode1 {
         System.out.print(result[0]+","+result[1]);
     }
 }
+
+//https://leetcode.com/problems/two-sum/description/
+//Time complexity O(n)

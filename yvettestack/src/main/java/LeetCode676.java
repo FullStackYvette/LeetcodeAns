@@ -38,11 +38,7 @@ public class LeetCode676 {
         }
         return false;
     }
-
-    public static void Main()
-    {
-
-    }
+    
 }
 
 //https://leetcode.com/problems/implement-magic-dictionary/description/

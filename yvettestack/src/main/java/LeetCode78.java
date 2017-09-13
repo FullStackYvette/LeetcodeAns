@@ -41,3 +41,7 @@ public class LeetCode78 {
         }
     }
 }
+
+//https://leetcode.com/problems/subsets/description/
+//Time complexity O(2^n)
+
