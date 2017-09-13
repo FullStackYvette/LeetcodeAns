@@ -8,7 +8,7 @@ public class LeetCode645 {
         if (root == null)
             return result;
         current.add(root);
-        int tempResult = 0;
+        double tempResult = 0;
         int count = 0;
         while (!current.isEmpty()) {
             TreeNode temp = current.remove(0);
@@ -46,6 +46,14 @@ public class LeetCode645 {
 
         TreeNode testRoot2 = null;
         printArray(averageOfLevels(testRoot2));//[]
+
+        TreeNode testRoot3 = new TreeNode(2147483647);
+        TreeNode n5 = new TreeNode(2147483647);
+        TreeNode n6 = new TreeNode(2147483647);
+        testRoot3.left =n5;
+        testRoot3.right=n6;
+
+        printArray(averageOfLevels(testRoot3));//[2147483647,2147483647]
     }
 
     private static void printArray(List<Double> list)
