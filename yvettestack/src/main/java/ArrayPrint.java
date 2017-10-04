@@ -25,4 +25,14 @@ public class ArrayPrint {
         }
         System.out.println(l.get(l.size()-1)+"]");
     }
+
+    public static void printStrArray(String[] strs)
+    {
+        System.out.print("[");
+        for(int i=0;i<strs.length-1;i++)
+        {
+            System.out.print(strs[i]+",");
+        }
+        System.out.println(strs[strs.length-1]+"]");
+    }
 }
