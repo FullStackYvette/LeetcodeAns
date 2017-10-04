@@ -34,5 +34,7 @@ public class LeetCode46 {
         ArrayPrint.printArray(permute(test1));
     }
 }
+//https://leetcode.com/problems/permutations/description/
+//Time Complexity is O(2^n)
 
 

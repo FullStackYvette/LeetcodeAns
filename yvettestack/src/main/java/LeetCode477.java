@@ -42,3 +42,5 @@ public class LeetCode477 {
         System.out.println(totalHammingDistance(test));
     }
 }
+//https://leetcode.com/problems/total-hamming-distance/description/
+//Time complexity is k(n-k)

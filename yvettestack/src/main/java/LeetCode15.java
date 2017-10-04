@@ -39,10 +39,6 @@ public class LeetCode15 {
         ArrayPrint.printArray(threeSum(test1));
     }
 }
-
-
-
-
 //https://leetcode.com/problems/3sum/description/
 //Time complexity O(n^2)
 

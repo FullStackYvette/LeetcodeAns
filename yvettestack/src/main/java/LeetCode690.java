@@ -64,3 +64,4 @@ public class LeetCode690 {
         System.out.println(getImportance(list2,1));
     }
 }
+//https://leetcode.com/problems/employee-importance/description/

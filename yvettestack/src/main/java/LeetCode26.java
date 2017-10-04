@@ -24,5 +24,6 @@ public class LeetCode26 {
         System.out.println(removeDuplicates(test1));
         System.out.println(removeDuplicates(test2));
     }
-
 }
+//https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+//Time Complexity O(n)

@@ -48,3 +48,4 @@ public class LeetCode676 {
  * obj.buildDict(dict);
  * boolean param_2 = obj.search(word);
  */
+//Time compleity is 26^n

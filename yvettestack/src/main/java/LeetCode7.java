@@ -27,3 +27,5 @@ public class LeetCode7 {
         System.out.println(reverse(1534236469));
     }
 }
+//https://leetcode.com/problems/reverse-integer/description/
+//Time complexity O(n)

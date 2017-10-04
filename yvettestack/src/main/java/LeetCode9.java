@@ -31,3 +31,5 @@ public class LeetCode9 {
         System.out.println(isPalindrome(100010001));
     }
 }
+//https://leetcode.com/problems/palindrome-number/description/
+//Time Complexity is O(lgn)

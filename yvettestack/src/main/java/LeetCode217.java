@@ -21,3 +21,5 @@ public class LeetCode217 {
         System.out.println(containsDuplicate(test2));
     }
 }
+//https://leetcode.com/problems/contains-duplicate/description/
+//Time Complexity O(n)

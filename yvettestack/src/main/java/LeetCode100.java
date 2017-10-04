@@ -7,5 +7,6 @@ public class LeetCode100 {
         else
             return p.val==q.val&&isSameTree(p.left,q.left)&&isSameTree(p.right,q.right);
     }
-
 }
+//https://leetcode.com/problems/same-tree/description/
+//Time complexity is O(n)

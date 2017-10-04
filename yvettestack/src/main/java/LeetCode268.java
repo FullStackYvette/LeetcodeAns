@@ -21,3 +21,5 @@ public class LeetCode268 {
         System.out.println(missingNumber(test2));
     }
 }
+//https://leetcode.com/problems/missing-number/description/
+//Time complexity is O(n)
